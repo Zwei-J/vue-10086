@@ -1,0 +1,516 @@
+{
+  "header": {
+    "user": [
+      {
+        "userPic": "static/image/header/user-pic.png",
+        "phone": 15818860047
+      }
+    ]
+  },
+  "main": {
+    "firstBanner": [
+      {
+        "title": "账单查询",
+        "pic": "static/image/main/top-banner/zhangdan.png"
+      },
+      {
+        "title": "流量特惠",
+        "pic": "static/image/main/top-banner/liuliang.png"
+      },
+      {
+        "title": "套餐余量",
+        "pic": "static/image/main/top-banner/yuliang.png"
+      },
+      {
+        "title": "最高送300元",
+        "pic": "static/image/main/top-banner/song.png"
+      },
+      {
+        "title": "优惠券",
+        "pic": "static/image/main/top-banner/youhui.png"
+      },
+      {
+        "title": "4G飞享套餐",
+        "pic": "static/image/main/top-banner/taocan.png"
+      },
+      {
+        "title": "万能副卡",
+        "pic": "static/image/main/top-banner/fuka.png"
+      },
+      {
+        "title": "已办业务",
+        "pic": "static/image/main/top-banner/yewu.png"
+      }
+    ],
+    "secondBanner": [
+      {
+        "title": "附近特价",
+        "pic": "static/image/main/second-banner/retui1.png"
+      },
+      {
+        "title": "免流量视频",
+        "pic": "static/image/main/second-banner/retui2.png"
+      },
+      {
+        "title": "会员领流量",
+        "pic": "static/image/main/second-banner/retui3.png"
+      },
+      {
+        "title": "签到赢话费",
+        "pic": "static/image/main/second-banner/retui4.png"
+      },
+      {
+        "title": "亲密圈",
+        "pic": "static/image/main/second-banner/retui5.png"
+      },
+      {
+        "title": "和包商城",
+        "pic": "static/image/main/second-banner/retui6.png"
+      },
+      {
+        "title": "购机中心",
+        "pic": "static/image/main/second-banner/retui7.png"
+      },
+      {
+        "title": "人人直销",
+        "pic": "static/image/main/second-banner/retui8.png"
+      }
+    ],
+    "banner": [
+      {
+        "type": 1,
+        "pic": "static/image/main/banner/banner1.jpg"
+      },
+      {
+        "type": 2,
+        "pic": "static/image/main/banner/banner2.jpg"
+      },
+      {
+        "type": 3,
+        "pic": "static/image/main/banner/banner3.jpg"
+      },
+      {
+        "type": 4,
+        "pic": "static/image/main/banner/banner4.jpg"
+      },
+      {
+        "type": 5,
+        "pic": "static/image/main/banner/banner5.jpg"
+      },
+      {
+        "type": 6,
+        "pic": "static/image/main/banner/banner6.jpg"
+      },
+      {
+        "type": 7,
+        "pic": "static/image/main/banner/banner7.jpg"
+      },
+      {
+        "type": 8,
+        "pic": "static/image/main/banner/banner8.jpg"
+      },
+      {
+        "type": 9,
+        "pic": "static/image/main/banner/banner9.jpg"
+      }
+    ],
+    "firstRegion": [
+      {
+        "bigPic": "static/image/main/region/region1.png"
+      },
+      {
+        "title": "岭南优选",
+        "content": "每周限时抢购",
+        "pic": "static/image/main/region/region2.png"
+      },
+      {
+        "title": "话费宝",
+        "content": "一份充值，双重收益",
+        "pic": "static/image/main/region/region3.png"
+      },
+      {
+        "title": "不限量套餐",
+        "content": "流量不限任意用",
+        "pic": "static/image/main/region/region4.png"
+      }
+    ]
+  },
+  "footer": [
+    {
+      "url": "/me",
+      "class": "my",
+      "pic": "static/image/footer/my-03.png",
+      "text": "我的"
+    },
+    {
+      "url": "/business",
+      "class": "my",
+      "pic": "static/image/footer/my-04.png",
+      "text": "业务办理"
+    },
+    {
+      "url": "/",
+      "class": "my-main",
+      "pic": "static/image/footer/my.png",
+      "text": "首页"
+    },
+    {
+      "url": "/me",
+      "class": "my my-right",
+      "pic": "static/image/footer/my-05.png",
+      "text": "家庭生活"
+    },
+    {
+      "url": "/me",
+      "class": "my my-right",
+      "pic": "static/image/footer/my-02.png",
+      "text": "视频专区"
+    }
+  ],
+  "business": {
+    "businessBanner": [
+      {
+        "title": "流量上网",
+        "pic": "static/image/business/business-banner1.png"
+      },
+      {
+        "title": "4G主套餐",
+        "pic": "static/image/business/business-banner2.png"
+      },
+      {
+        "title": "充值预存",
+        "pic": "static/image/business/business-banner3.png"
+      },
+      {
+        "title": "国际/港澳台",
+        "pic": "static/image/business/business-banner4.png"
+      },
+      {
+        "title": "常用业务",
+        "pic": "static/image/business/business-banner5.png"
+      },
+      {
+        "title": "购机中心",
+        "pic": "static/image/business/business-banner6.png"
+      },
+      {
+        "title": "特价靓号",
+        "pic": "static/image/business/business-banner7.png"
+      },
+      {
+        "title": "集团业务",
+        "pic": "static/image/business/business-banner8.png"
+      },
+      {
+        "title": "生活服务",
+        "pic": "static/image/business/business-banner9.png"
+      },
+      {
+        "title": "家庭生活",
+        "pic": "static/image/business/business-banner10.png"
+      }
+    ],
+    "nav": [
+      {
+        "msg": "热门特惠",
+        "url": "/business/business1"
+      },
+      {
+        "msg": "小时包",
+        "url": "/business/business2"
+      },
+      {
+        "msg": "月包",
+        "url": "/business/business3"
+      },
+      {
+        "msg": "年包",
+        "url": "/business/business4"
+      },
+      {
+        "msg": "视频流量",
+        "url": "/business/business5"
+      },
+      {
+        "msg": "位置流量",
+        "url": "/business/business6"
+      },
+      {
+        "msg": "权益流量",
+        "url": "/business/business7"
+      },
+      {
+        "msg": "服务",
+        "url": "/business/business8"
+      }
+    ],
+    "business1": [
+      {
+        "title": "不限流量年包",
+        "content": "月付费",
+        "price": "10",
+        "specification": "元/月",
+        "pic": "static/image/business/business-child/business1-1.png"
+      },
+      {
+        "title": "流量无忧包",
+        "content": "省内超套餐限速任性用",
+        "price": "75",
+        "specification": "元/月",
+        "pic": "static/image/business/business-child/business1-2.png"
+      },
+      {
+        "title": "无虑包",
+        "content": "有效期30天",
+        "price": "50",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business1-3.png"
+      },
+      {
+        "title": "10元1G特惠包",
+        "content": "有效期7天",
+        "price": "10.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business1-4.png"
+      },
+      {
+        "title": "流量特惠包（新）",
+        "content": "有效期7天",
+        "price": "10.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business1-5.png"
+      },
+      {
+        "title": "手机流量叠加包",
+        "content": "国内通用流量",
+        "price": "10.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business1-6.png"
+      },
+      {
+        "title": "任我看视频流量包",
+        "content": "限时5折优惠",
+        "price": "6.00",
+        "specification": "元",
+        "pic": "static/image/business/business-child/business1-7.png"
+      },
+      {
+        "title": "国际及港澳台漫游流量包",
+        "content": "多天优惠手机流量套餐，让你出国旅游无忧",
+        "price": "68.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business1-8.png"
+      }
+    ],
+    "business2": [
+      {
+        "title": "2018年小时流量快餐包",
+        "content": "小时流量，最高2G",
+        "price": "1.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business2-1.png"
+      }
+    ],
+    "business3": [
+      {
+        "title": "手机流量套餐（2018版）",
+        "content": "一次办理，月月无忧",
+        "price": "5.00",
+        "specification": "元/月",
+        "pic": "static/image/business/business-child/business3-1.png"
+      },
+      {
+        "title": "国内夜间（闲时）流量套餐",
+        "content": "夜间闲时时间使用",
+        "price": "10.00",
+        "specification": "元/月",
+        "pic": "static/image/business/business-child/business3-2.png"
+      },
+      {
+        "title": "早晚通勤流量包",
+        "content": "6GB通勤流量",
+        "price": "15.00",
+        "specification": "元/月",
+        "pic": "static/image/business/business-child/business3-3.png"
+      }
+    ],
+    "business4": [
+      {
+        "title": "新版流量年包（有效期12个月）",
+        "content": "月付费",
+        "price": "20.00",
+        "specification": "元/月",
+        "pic": "static/image/business/business-child/business4-1.png"
+      },
+      {
+        "title": "新版流量年包（有效期12个月）",
+        "content": "一次性付费",
+        "price": "180.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business4-2.png"
+      }
+    ],
+    "business5": [
+      {
+        "title": "任我看视频流量包",
+        "content": "限时五折优惠",
+        "price": "6.00",
+        "specification": "元",
+        "pic": "static/image/business/business-child/business5-1.png"
+      }
+    ],
+    "business6": [
+      {
+        "title": "区域（位置）流量套餐",
+        "content": "特定区域4G流量",
+        "price": "8.00",
+        "specification": "元",
+        "pic": "static/image/business/business-child/business6-1.png"
+      }
+    ],
+    "business7": [
+      {
+        "title": "百事通流量年包（分月付费）",
+        "content": "分月付费",
+        "price": "30.00",
+        "specification": "元/月",
+        "pic": "static/image/business/business-child/business7-1.png"
+      },
+      {
+        "title": "百事通流量年包（一次性付费）",
+        "content": "一次性付费",
+        "price": "380.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business7-2.png"
+      }
+    ],
+    "business8": [
+      {
+        "title": "9元3G省内流量加油包",
+        "content": "省内不限量【138元4G飞享套餐（省内不限流量不限限速不限次数）】",
+        "price": "9.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business8-1.png"
+      },
+      {
+        "title": "60元流量安心包",
+        "content": "流量安心用！",
+        "price": "0.00",
+        "specification": "按实际超出流量计费",
+        "pic": "static/image/business/business-child/business8-2.png"
+      },
+      {
+        "title": "漫游香港WLAN",
+        "content": "便捷，省心",
+        "price": "0.00",
+        "specification": "免费",
+        "pic": "static/image/business/business-child/business8-3.png"
+      },
+      {
+        "title": "15元1G国内流量自动加油包",
+        "content": "任我用及188元或以上飞享套餐（国内不限速不限次数）",
+        "price": "15.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business8-4.png"
+      },
+      {
+        "title": "WLAN功能",
+        "content": "覆盖范围内无线上网",
+        "price": "0.10",
+        "specification": "元/M",
+        "pic": "static/image/business/business-child/business8-5.png"
+      },
+      {
+        "title": "WLAN套餐",
+        "content": "6档套餐，优惠多多",
+        "price": "5.00",
+        "specification": "元/月",
+        "pic": "static/image/business/business-child/business8-6.png"
+      },
+      {
+        "title": "50元流量保障服务",
+        "content": "流量安心用！",
+        "price": "0.00",
+        "specification": "按实际超出流量计费",
+        "pic": "static/image/business/business-child/business8-7.png"
+      },
+      {
+        "title": "流量转移",
+        "content": "全省暂停办理！",
+        "price": "3.00",
+        "specification": "元/次",
+        "pic": "static/image/business/business-child/business8-8.png"
+      }
+    ]
+  },
+  "me": {
+    "gridBanner": [
+      {
+        "title": "已办业务",
+        "pic": "static/image/me/gridbanner/me-1.png"
+      },
+      {
+        "title": "套餐余量",
+        "pic": "static/image/me/gridbanner/me-2.png"
+      },
+      {
+        "title": "我的短号",
+        "pic": "static/image/me/gridbanner/me-3.png"
+      },
+      {
+        "title": "服务密码",
+        "pic": "static/image/me/gridbanner/me-4.png"
+      },
+      {
+        "title": "新人有礼",
+        "pic": "static/image/me/gridbanner/me-5.png"
+      },
+      {
+        "title": "亲密圈",
+        "pic": "static/image/me/gridbanner/me-6.png"
+      },
+      {
+        "title": "趣味账单",
+        "pic": "static/image/me/gridbanner/me-7.png"
+      },
+      {
+        "title": "139邮箱",
+        "pic": "static/image/me/gridbanner/me-8.png"
+      },
+      {
+        "title": "通讯录备份",
+        "pic": "static/image/me/gridbanner/me-9.png"
+      },
+      {
+        "title": "身份认证",
+        "pic": "static/image/me/gridbanner/me-10.png"
+      },
+      {
+        "title": "号卡激活",
+        "pic": "static/image/me/gridbanner/me-11.png"
+      },
+      {
+        "title": "更多",
+        "pic": "static/image/me/gridbanner/me-12.png"
+      }
+    ],
+    "scrollBanner": [
+      {
+        "type": 1,
+        "pic": "static/image/main/banner/banner3.jpg"
+      },
+      {
+        "type": 2,
+        "pic": "static/image/main/banner/banner4.jpg"
+      },
+      {
+        "type": 3,
+        "pic": "static/image/main/banner/banner5.jpg"
+      },
+      {
+        "type": 4,
+        "pic": "static/image/main/banner/banner6.jpg"
+      }
+    ]
+  }
+}
